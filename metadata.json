@@ -1,0 +1,6 @@
+{
+  "name": "商户风控审核与合规监管系统",
+  "description": "提供商户进件多模态核验、跨收单机构撞库去重、MCC套码排查与非现场飞行抽检等风控审核功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
